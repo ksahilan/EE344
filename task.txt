@@ -1,0 +1,19 @@
+Ferroelectric capacitance and current measurement system
+
+Large signal capacitance measurement enhancement for PicoIRIS board.
+PicoIRIS
+
+Key technical and user specifications:
+Should have:
+a) Triangular waverform generator (up to 100 kHz), +/- 5V peak-peak
+b) Minimum measurable charge: 1 pC (or at least a few 100 pC)
+
+Deliverable expected at end of the semester:
+Working prototype of the ferroelectric capacitance measurement unit
+
+Links and information regarding reference design(s) for this project.
+Reference circuit design J. Phys. E: Sci. Instr. vol. 17. 95 (1984). This will be augmentation of the existing PicoIRIS board at WEL (the all in one board that has function gen, oscilloscope etc.)
+https://xiaoshanxu.unl.edu/system/files/sites/unl.edu.cas.physics.xiaoshan-xu/files/private/2016_01_29%20Yin_Ferroelectric%20measurement.pdf
+
+Suggestions and expectations for original contributions to build on the work already demonstrated by others in the reference design(s).
+Implementing reference circuit design and synchornizing the output signals with existing oscilloscope and function generator
